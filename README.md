@@ -1,6 +1,5 @@
 # Multiple Kernels Dual Graph Regularized Least Squares (MKDGRLS)
-=================
-MKDGRLS is one novel computational method, which utilizes Multiple kernels learning and Dual Regularized Least Squares to predict the association between drugs and diseases.
+> MKDGRLS is one novel computational method, which utilizes Multiple kernels learning and Dual Regularized Least Squares to predict the association between drugs and diseases.
 ![Image text](http://yhpjc.vip/download/MKDGRLS/mkdgrls_flow.jpg)
 1.Code.
 >1)Knormalized.m: function implementing normalize kernel;
