@@ -16,4 +16,4 @@ MKDGRLS is one novel computational method, which utilizes Multiple kernels learn
 
 >2)Cdataset.mat: including drug-disease association matrix, which contain 2353 associations between 663 drugs and 409 diseases, drug and disease similarity matrices;
 
->2)LRSSL_dataset.mat: including drug-disease association matrix, which contain 3051 associations between 763 drugs and 468109 diseases, drug and disease similarity matrices;
+>3)LRSSL_dataset.mat: including drug-disease association matrix, which contain 3051 associations between 763 drugs and 468109 diseases, drug and disease similarity matrices;
